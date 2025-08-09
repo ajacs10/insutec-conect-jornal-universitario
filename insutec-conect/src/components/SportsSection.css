@@ -1,0 +1,46 @@
+/* src/components/SportsSection.css */
+.sports-section {
+  background-color: #90949b;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #f7d046;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #f7d046;
+  padding-bottom: 0.5rem;
+}
+
+.section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.content-item {
+  background-color: #4a5568;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.item-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: #f7d046;
+}
+
+.item-description {
+  margin: 0 0 0.5rem 0;
+  line-height: 1.5;
+}
+
+.item-time {
+  font-size: 0.875rem;
+  color: #a0aec0;
+}

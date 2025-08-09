@@ -1,0 +1,22 @@
+/* src/components/AboutUs.css */
+.about-us-container {
+  background-color: #2d3748;
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  min-height: 50vh;
+}
+
+.about-us-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #f7d046;
+  margin-bottom: 1rem;
+}
+
+.about-us-text {
+  font-size: 1.125rem;
+  line-height: 1.6;
+}

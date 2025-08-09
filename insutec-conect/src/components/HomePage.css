@@ -1,0 +1,13 @@
+.homepage-main {
+  display: flex;
+  flex-direction: column;
+  gap: 4.7rem;
+  padding: 1.5rem;
+}
+
+@media (min-width: 3026px) 
+{
+  .homepage-main {
+    flex-direction: row;
+  }
+}
